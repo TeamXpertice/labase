@@ -1,141 +1,141 @@
 <section class="features">
-        <div class="container">
+  <div class="container">
 
-          <p class="section-subtitle">Our Aminities</p>
+    <p class="section-subtitle">LaBaseCowork</p>
 
-          <h2 class="h2 section-title">TE OFRECEMOS</h2>
+    <h2 class="h2 section-title">TE OFRECEMOS</h2>
 
-          <ul class="features-list">
+    <ul class="features-list">
 
-            <li>
-              <a href="#" class="features-card">
+      <li>
+        <a href="#" class="features-card">
 
-                <div class="card-icon">
-                  <ion-icon name="car-sport-outline"></ion-icon>
-                </div>
+          <div class="card-icon">
+            <ion-icon name="globe-outline"></ion-icon>
+          </div>
 
-                <h3 class="card-title">CONOCE TUS DERECHOS</h3>
+          <h3 class="card-title">Internet - Fibra Óptica</h3>
 
-                <div class="card-btn">
-                  <ion-icon name="arrow-forward-outline"></ion-icon>
-                </div>
+          <div class="card-btn">
+            <ion-icon name="arrow-forward-outline"></ion-icon>
+          </div>
 
-              </a>
-            </li>
+        </a>
+      </li>
 
-            <li>
-              <a href="#" class="features-card">
+      <li>
+        <a href="#" class="features-card">
 
-                <div class="card-icon">
-                  <ion-icon name="water-outline"></ion-icon>
-                </div>
+          <div class="card-icon">
+            <ion-icon name="pin-outline"></ion-icon>
+          </div>
 
-                <h3 class="card-title">MÁSTER CLASES NUEVAS</h3>
+          <h3 class="card-title">Ubicación Estratégica</h3>
 
-                <div class="card-btn">
-                  <ion-icon name="arrow-forward-outline"></ion-icon>
-                </div>
+          <div class="card-btn">
+            <ion-icon name="arrow-forward-outline"></ion-icon>
+          </div>
 
-              </a>
-            </li>
+        </a>
+      </li>
 
-            <li>
-              <a href="#" class="features-card">
+      <li>
+        <a href="#" class="features-card">
 
-                <div class="card-icon">
-                  <ion-icon name="shield-checkmark-outline"></ion-icon>
-                </div>
+          <div class="card-icon">
+            <ion-icon name="business-outline"></ion-icon>
+          </div>
 
-                <h3 class="card-title">CLUB DEL TRABAJADOR</h3>
+          <h3 class="card-title">Imagen Profesional</h3>
 
-                <div class="card-btn">
-                  <ion-icon name="arrow-forward-outline"></ion-icon>
-                </div>
+          <div class="card-btn">
+            <ion-icon name="arrow-forward-outline"></ion-icon>
+          </div>
 
-              </a>
-            </li>
+        </a>
+      </li>
 
-            <li>
-              <a href="#" class="features-card">
+      <li>
+        <a href="#" class="features-card">
 
-                <div class="card-icon">
-                  <ion-icon name="fitness-outline"></ion-icon>
-                </div>
+          <div class="card-icon">
+            <ion-icon name="people-outline"></ion-icon>
+          </div>
 
-                <h3 class="card-title">EDUCACIÓN FINANCIERA</h3>
+          <h3 class="card-title">Herramientas Colaborativas</h3>
 
-                <div class="card-btn">
-                  <ion-icon name="arrow-forward-outline"></ion-icon>
-                </div>
+          <div class="card-btn">
+            <ion-icon name="arrow-forward-outline"></ion-icon>
+          </div>
 
-              </a>
-            </li>
+        </a>
+      </li>
 
-            <li>
-              <a href="#" class="features-card">
+      <li>
+        <a href="#" class="features-card">
 
-                <div class="card-icon">
-                  <ion-icon name="library-outline"></ion-icon>
-                </div>
+          <div class="card-icon">
+            <ion-icon name="print-outline"></ion-icon>
+          </div>
 
-                <h3 class="card-title">Foro Facebook</h3>
+          <h3 class="card-title">Impresion</h3>
 
-                <div class="card-btn">
-                  <ion-icon name="arrow-forward-outline"></ion-icon>
-                </div>
+          <div class="card-btn">
+            <ion-icon name="arrow-forward-outline"></ion-icon>
+          </div>
 
-              </a>
-            </li>
+        </a>
+      </li>
 
-            <li>
-              <a href="#" class="features-card">
+      <li>
+        <a href="#" class="features-card">
 
-                <div class="card-icon">
-                  <ion-icon name="bed-outline"></ion-icon>
-                </div>
+          <div class="card-icon">
+            <ion-icon name="construct-outline"></ion-icon>
+          </div>
 
-                <h3 class="card-title">Webinar Gratis</h3>
+          <h3 class="card-title">Productividad</h3>
 
-                <div class="card-btn">
-                  <ion-icon name="arrow-forward-outline"></ion-icon>
-                </div>
+          <div class="card-btn">
+            <ion-icon name="arrow-forward-outline"></ion-icon>
+          </div>
 
-              </a>
-            </li>
+        </a>
+      </li>
 
-            <li>
-              <a href="#" class="features-card">
+      <li>
+        <a href="#" class="features-card">
 
-                <div class="card-icon">
-                  <ion-icon name="home-outline"></ion-icon>
-                </div>
+          <div class="card-icon">
+            <ion-icon name="home-outline"></ion-icon>
+          </div>
 
-                <h3 class="card-title">Cursos Gratis</h3>
+          <h3 class="card-title">Recepción</h3>
 
-                <div class="card-btn">
-                  <ion-icon name="arrow-forward-outline"></ion-icon>
-                </div>
+          <div class="card-btn">
+            <ion-icon name="arrow-forward-outline"></ion-icon>
+          </div>
 
-              </a>
-            </li>
+        </a>
+      </li>
 
-            <li>
-              <a href="#" class="features-card">
+      <li>
+        <a href="#" class="features-card">
 
-                <div class="card-icon">
-                  <ion-icon name="football-outline"></ion-icon>
-                </div>
+          <div class="card-icon">
+            <ion-icon name="briefcase-outline"></ion-icon>
+          </div>
 
-                <h3 class="card-title">Testimonios y opiniones</h3>
+          <h3 class="card-title">Coffe and Tea</h3>
 
-                <div class="card-btn">
-                  <ion-icon name="arrow-forward-outline"></ion-icon>
-                </div>
+          <div class="card-btn">
+            <ion-icon name="arrow-forward-outline"></ion-icon>
+          </div>
 
-              </a>
-            </li>
+        </a>
+      </li>
 
-          </ul>
+    </ul>
 
-        </div>
-      </section>
+  </div>
+</section>
