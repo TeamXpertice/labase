@@ -11,7 +11,7 @@
         <div class="blog-card">
 
           <figure class="card-banner">
-            <img src="./assets/images/labase/_DSC9009.jpg" alt="Abogados1" class="w-100">
+            <img src="./assets/images/Novedades/diapadre.jpg" alt="Abogados1" class="w-100">
           </figure>
 
           <div class="blog-content">
@@ -24,7 +24,7 @@
                   <a href="#" class="card-meta-link">
                     <ion-icon name="person"></ion-icon>
 
-                    <span>by: Admin</span>
+                    <span>by: LaBaseCoworck</span>
                   </a>
                 </li>
 
@@ -32,14 +32,14 @@
                   <a href="#" class="card-meta-link">
                     <ion-icon name="pricetags"></ion-icon>
 
-                    <span>Interior</span>
+                    <span>Promoción</span>
                   </a>
                 </li>
 
               </ul>
 
               <h3 class="h3 blog-title">
-                <a href="#">The Most Inspiring Interior Design Of 2021</a>
+                <a href="#">¡Celebra el Día del Padre con un espacio para sus ideas! 🎉👔</a>
               </h3>
 
             </div>
@@ -48,10 +48,10 @@
               <div class="publish-date">
                 <ion-icon name="calendar"></ion-icon>
 
-                <time datetime="2022-27-04">Apr 27, 2022</time>
+                <time datetime="2024-16-06">junio 16, 2024</time>
               </div>
 
-              <a href="#" class="read-more-btn">Read More</a>
+              <a href="#" class="read-more-btn">Ver</a>
             </div>
 
           </div>
@@ -63,7 +63,7 @@
         <div class="blog-card">
 
           <figure class="card-banner">
-            <img src="./assets/images/labase/_DSC9009.jpg" alt="Abogados2" class="w-100">
+            <img src="./assets/images/Novedades/taller1.png" alt="Abogados2" class="w-100">
           </figure>
 
           <div class="blog-content">
@@ -76,7 +76,7 @@
                   <a href="#" class="card-meta-link">
                     <ion-icon name="person"></ion-icon>
 
-                    <span>by: Admin</span>
+                    <span>by: LaBaseCowork</span>
                   </a>
                 </li>
 
@@ -84,14 +84,14 @@
                   <a href="#" class="card-meta-link">
                     <ion-icon name="pricetags"></ion-icon>
 
-                    <span>Estate</span>
+                    <span>Taller</span>
                   </a>
                 </li>
 
               </ul>
 
               <h3 class="h3 blog-title">
-                <a href="#">Recent Commercial Real Estate Transactions</a>
+                <a href="#">¡Impulsa tu Negocio y Emprendimiento Ahora! Claves para el Crecimiento</a>
               </h3>
 
             </div>
@@ -100,10 +100,10 @@
               <div class="publish-date">
                 <ion-icon name="calendar"></ion-icon>
 
-                <time datetime="2022-27-04">Apr 27, 2022</time>
+                <time datetime="2024-13-06">Junio 13, 2024</time>
               </div>
 
-              <a href="#" class="read-more-btn">Read More</a>
+              <a href="#" class="read-more-btn">Ver</a>
             </div>
 
           </div>
@@ -115,7 +115,7 @@
         <div class="blog-card">
 
           <figure class="card-banner">
-            <img src="./assets/images/labase/_DSC9009.jpg" alt="Abogados3" class="w-100">
+            <img src="./assets/images/Novedades/taller2.jpg" alt="Abogados3" class="w-100">
           </figure>
 
           <div class="blog-content">
@@ -128,7 +128,7 @@
                   <a href="#" class="card-meta-link">
                     <ion-icon name="person"></ion-icon>
 
-                    <span>by: Admin</span>
+                    <span>by: LaBaseCowork</span>
                   </a>
                 </li>
 
@@ -136,14 +136,14 @@
                   <a href="#" class="card-meta-link">
                     <ion-icon name="pricetags"></ion-icon>
 
-                    <span>Room</span>
+                    <span>Taller</span>
                   </a>
                 </li>
 
               </ul>
 
               <h3 class="h3 blog-title">
-                <a href="#">Renovating a Living Room? Experts Share Their Secrets</a>
+                <a href="#">¡COMO REGISTRAR TU MARCA YA! Guía Rápida y Sencilla</a>
               </h3>
 
             </div>
@@ -152,10 +152,10 @@
               <div class="publish-date">
                 <ion-icon name="calendar"></ion-icon>
 
-                <time datetime="2022-27-04">Apr 27, 2022</time>
+                <time datetime="2024-30-05">Mayo 30, 2024</time>
               </div>
 
-              <a href="#" class="read-more-btn">Read More</a>
+              <a href="#" class="read-more-btn">Ver</a>
             </div>
 
           </div>
@@ -163,57 +163,7 @@
         </div>
       </li>
 
-      <li>
-        <div class="blog-card">
 
-          <figure class="card-banner">
-            <img src="./assets/images/labase/_DSC9009.jpg" alt="Abogados3" class="w-100">
-          </figure>
-
-          <div class="blog-content">
-
-            <div class="blog-content-top">
-
-              <ul class="card-meta-list">
-
-                <li>
-                  <a href="#" class="card-meta-link">
-                    <ion-icon name="person"></ion-icon>
-
-                    <span>by: Admin</span>
-                  </a>
-                </li>
-
-                <li>
-                  <a href="#" class="card-meta-link">
-                    <ion-icon name="pricetags"></ion-icon>
-
-                    <span>Room</span>
-                  </a>
-                </li>
-
-              </ul>
-
-              <h3 class="h3 blog-title">
-                <a href="#">Renovating a Living Room? Experts Share Their Secrets</a>
-              </h3>
-
-            </div>
-
-            <div class="blog-content-bottom">
-              <div class="publish-date">
-                <ion-icon name="calendar"></ion-icon>
-
-                <time datetime="2022-27-04">Apr 27, 2022</time>
-              </div>
-
-              <a href="#" class="read-more-btn">Read More</a>
-            </div>
-
-          </div>
-
-        </div>
-      </li>
 
     </ul>
 
