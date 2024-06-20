@@ -2,9 +2,9 @@
   <div class="container">
 
     <figure class="about-banner">
-      <img src="./assets/images/about-banner-1.png" alt="House interior">
+      <img src="./assets/images/labase/xmient.png" alt="House interior">
 
-      <img src="./assets/images/labase/_DSC9010.jpg" alt="House interior" class="abs-img">
+      <img src="./assets/images/labase/_DSC9035.jpg" alt="House interior" class="abs-img">
     </figure>
 
     <div class="about-content">

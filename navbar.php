@@ -35,11 +35,11 @@
           </li>
 
           <li>
-            <a href="#property" class="navbar-link" data-nav-link>Propiedades</a>
+            <a href="#property" class="navbar-link" data-nav-link>Espacios</a>
           </li>
 
           <li>
-            <a href="#blog" class="navbar-link" data-nav-link>Blog</a>
+            <a href="#blog" class="navbar-link" data-nav-link>Novedades</a>
           </li>
 
           <li>
