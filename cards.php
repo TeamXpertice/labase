@@ -16,14 +16,14 @@
               <img src="./assets/images/labase/_DSC9009.jpg" alt="New Apartment Nice View" class="w-100">
             </a>
 
-            <div class="card-badge green">For Rent</div>
+            <div class="card-badge green">Arrendar</div>
 
             <div class="banner-actions">
 
               <button class="banner-actions-btn">
                 <ion-icon name="location"></ion-icon>
 
-                <address>Jr. Tacna 234, Edificio GALENA, piso 10, Huancayo, Peru</address>
+                <address>Jr. Tacna 234, Edificio GALENA, piso 10</address>
               </button>
 
               <button class="banner-actions-btn">
@@ -53,11 +53,11 @@
             </h3>
 
             <p class="card-text">
-              Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood
+              En este espacio, se trabaja individualmente por especialidad y se comparte con otros de áreas afines o complementarias.
             </p>
 
             <ul class="card-list">
-
+              <!--
               <li class="card-item">
                 <strong>3</strong>
 
@@ -65,15 +65,15 @@
 
                 <span>Bedrooms</span>
               </li>
-
+              -->
               <li class="card-item">
                 <strong>2</strong>
 
                 <ion-icon name="man-outline"></ion-icon>
 
-                <span>Bathrooms</span>
+                <span>Capacidad</span>
               </li>
-
+              <!--
               <li class="card-item">
                 <strong>3450</strong>
 
@@ -81,7 +81,7 @@
 
                 <span>Square Ft</span>
               </li>
-
+              -->
             </ul>
 
           </div>
@@ -134,14 +134,14 @@
               <img src="./assets/images/labase/_DSC9011.jpg" alt="Modern Apartments" class="w-100">
             </a>
 
-            <div class="card-badge orange">For Sales</div>
+            <div class="card-badge orange">Arrendar</div>
 
             <div class="banner-actions">
 
               <button class="banner-actions-btn">
                 <ion-icon name="location"></ion-icon>
 
-                <address>Jr. Tacna 234, Edificio GALENA, piso 10, Huancayo, Peru</address>
+                <address>Jr. Tacna 234, Edificio GALENA, piso 10</address>
               </button>
 
               <button class="banner-actions-btn">
@@ -173,11 +173,11 @@
             </h3>
 
             <p class="card-text">
-              Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood
+              Espacio estratégico para varios, con decisiones clave y acciones estratégicas, incluyendo su Arsenal.
             </p>
 
             <ul class="card-list">
-
+              <!--
               <li class="card-item">
                 <strong>3</strong>
 
@@ -185,15 +185,15 @@
 
                 <span>Bedrooms</span>
               </li>
-
+              -->
               <li class="card-item">
                 <strong>2</strong>
 
                 <ion-icon name="man-outline"></ion-icon>
 
-                <span>Bathrooms</span>
+                <span>Capacidad</span>
               </li>
-
+              <!--
               <li class="card-item">
                 <strong>3450</strong>
 
@@ -201,7 +201,7 @@
 
                 <span>Square Ft</span>
               </li>
-
+              -->
             </ul>
 
           </div>
@@ -258,14 +258,14 @@
               <img src="./assets/images/labase/_DSC9016.jpg" alt="Comfortable Apartment" class="w-100">
             </a>
 
-            <div class="card-badge green">For Rent</div>
+            <div class="card-badge green">Arrendar</div>
 
             <div class="banner-actions">
 
               <button class="banner-actions-btn">
                 <ion-icon name="location"></ion-icon>
 
-                <address>Jr. Tacna 234, Edificio GALENA, piso 10, Huancayo, Peru</address>
+                <address>Jr. Tacna 234, Edificio GALENA, piso 10</address>
               </button>
 
               <button class="banner-actions-btn">
@@ -295,27 +295,27 @@
             </h3>
 
             <p class="card-text">
-              Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood
+              Espacio de máxima seguridad y confidencialidad absoluta, ideal para tus reuniones más importantes y delicadas.
             </p>
 
             <ul class="card-list">
-
+              <!--              
               <li class="card-item">
                 <strong>3</strong>
 
                 <ion-icon name="bed-outline"></ion-icon>
 
                 <span>Bedrooms</span>
-              </li>
+              </li>-->
 
               <li class="card-item">
                 <strong>2</strong>
 
                 <ion-icon name="man-outline"></ion-icon>
 
-                <span>Bathrooms</span>
+                <span>Capacidad</span>
               </li>
-
+              <!--  
               <li class="card-item">
                 <strong>3450</strong>
 
@@ -323,7 +323,7 @@
 
                 <span>Square Ft</span>
               </li>
-
+              -->
             </ul>
 
           </div>
@@ -376,14 +376,14 @@
               <img src="./assets/images/labase/_DSC9021.jpg " alt="Luxury villa in Rego Park" class="w-100">
             </a>
 
-            <div class="card-badge green">For Rent</div>
+            <div class="card-badge orange">Arrendar</div>
 
             <div class="banner-actions">
 
               <button class="banner-actions-btn">
                 <ion-icon name="location"></ion-icon>
 
-                <address>Jr. Tacna 234, Edificio GALENA, piso 10, Huancayo, Peru</address>
+                <address>Jr. Tacna 234, Edificio GALENA, piso 10</address>
               </button>
 
               <button class="banner-actions-btn">
@@ -417,7 +417,7 @@
             </p>
 
             <ul class="card-list">
-
+              <!--
               <li class="card-item">
                 <strong>3</strong>
 
@@ -425,15 +425,15 @@
 
                 <span>Bedrooms</span>
               </li>
-
+              -->
               <li class="card-item">
                 <strong>2</strong>
 
                 <ion-icon name="man-outline"></ion-icon>
 
-                <span>Bathrooms</span>
+                <span>Capacidad</span>
               </li>
-
+              <!--
               <li class="card-item">
                 <strong>3450</strong>
 
@@ -441,7 +441,7 @@
 
                 <span>Square Ft</span>
               </li>
-
+              -->
             </ul>
 
           </div>
@@ -494,14 +494,14 @@
               <img src="./assets/images/labase/_DSC9021.jpg " alt="Luxury villa in Rego Park" class="w-100">
             </a>
 
-            <div class="card-badge green">For Rent</div>
+            <div class="card-badge green">Arrendar</div>
 
             <div class="banner-actions">
 
               <button class="banner-actions-btn">
                 <ion-icon name="location"></ion-icon>
 
-                <address>Jr. Tacna 234, Edificio GALENA, piso 10, Huancayo, Peru</address>
+                <address>Jr. Tacna 234, Edificio GALENA, piso 10</address>
               </button>
 
               <button class="banner-actions-btn">
@@ -531,11 +531,11 @@
             </h3>
 
             <p class="card-text">
-              Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood
+              Espacios personales para privacidad y comodidad individual, ideales para trabajar concentrado.
             </p>
 
             <ul class="card-list">
-
+              <!--
               <li class="card-item">
                 <strong>3</strong>
 
@@ -543,15 +543,15 @@
 
                 <span>Bedrooms</span>
               </li>
-
+              -->
               <li class="card-item">
                 <strong>2</strong>
 
                 <ion-icon name="man-outline"></ion-icon>
 
-                <span>Bathrooms</span>
+                <span>Capacidad</span>
               </li>
-
+              <!--
               <li class="card-item">
                 <strong>3450</strong>
 
@@ -559,7 +559,7 @@
 
                 <span>Square Ft</span>
               </li>
-
+              -->
             </ul>
 
           </div>
@@ -612,14 +612,14 @@
               <img src="./assets/images/labase/_DSC9021.jpg " alt="Luxury villa in Rego Park" class="w-100">
             </a>
 
-            <div class="card-badge green">For Rent</div>
+            <div class="card-badge orange">Arrendar</div>
 
             <div class="banner-actions">
 
               <button class="banner-actions-btn">
                 <ion-icon name="location"></ion-icon>
 
-                <address>Jr. Tacna 234, Edificio GALENA, piso 10, Huancayo, Peru</address>
+                <address>Jr. Tacna 234, Edificio GALENA, piso 10</address>
               </button>
 
               <button class="banner-actions-btn">
@@ -649,11 +649,11 @@
             </h3>
 
             <p class="card-text">
-              Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood
+              Espacio privado para el equipo, ideal para desarrollar proyectos con total privacidad y recursos.
             </p>
 
             <ul class="card-list">
-
+              <!--
               <li class="card-item">
                 <strong>3</strong>
 
@@ -661,15 +661,15 @@
 
                 <span>Bedrooms</span>
               </li>
-
+              -->
               <li class="card-item">
                 <strong>2</strong>
 
                 <ion-icon name="man-outline"></ion-icon>
 
-                <span>Bathrooms</span>
+                <span>Capacidad</span>
               </li>
-
+              <!--
               <li class="card-item">
                 <strong>3450</strong>
 
@@ -677,7 +677,7 @@
 
                 <span>Square Ft</span>
               </li>
-
+              -->
             </ul>
 
           </div>
@@ -721,6 +721,7 @@
         </div>
       </li>
 
+
       <li>
         <div class="property-card">
 
@@ -730,14 +731,14 @@
               <img src="./assets/images/labase/_DSC9021.jpg " alt="Luxury villa in Rego Park" class="w-100">
             </a>
 
-            <div class="card-badge green">For Rent</div>
+            <div class="card-badge green">Arrendar</div>
 
             <div class="banner-actions">
 
               <button class="banner-actions-btn">
                 <ion-icon name="location"></ion-icon>
 
-                <address>Jr. Tacna 234, Edificio GALENA, piso 10, Huancayo, Peru</address>
+                <address>Jr. Tacna 234, Edificio GALENA, piso 10</address>
               </button>
 
               <button class="banner-actions-btn">
@@ -763,15 +764,15 @@
             </div>
 
             <h3 class="h3 card-title">
-              <a href="#">El Arsenal</a>
+              <a href="#">La Reserva</a>
             </h3>
 
             <p class="card-text">
-              Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood
+              Son espacios dedicados para el trabajo de un pequeño equipo o dupla de trabajo.
             </p>
 
             <ul class="card-list">
-
+              <!--
               <li class="card-item">
                 <strong>3</strong>
 
@@ -779,15 +780,15 @@
 
                 <span>Bedrooms</span>
               </li>
-
+              -->
               <li class="card-item">
                 <strong>2</strong>
 
                 <ion-icon name="man-outline"></ion-icon>
 
-                <span>Bathrooms</span>
+                <span>Capacidad</span>
               </li>
-
+              <!--
               <li class="card-item">
                 <strong>3450</strong>
 
@@ -795,7 +796,7 @@
 
                 <span>Square Ft</span>
               </li>
-
+              -->
             </ul>
 
           </div>
@@ -838,7 +839,6 @@
 
         </div>
       </li>
-
     </ul>
 
   </div>

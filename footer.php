@@ -6,7 +6,7 @@
       <div class="footer-brand">
 
         <a href="#" class="logo">
-          <img src="./assets/images/iconos.png" alt="Homeverse logo">
+          <img src="./assets/images/logoFooter.png" alt="Homeverse logo">
         </a>
 
         <p class="section-text">
