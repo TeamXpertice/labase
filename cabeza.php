@@ -23,7 +23,7 @@
         </div>
 
         <figure class="hero-banner">
-          <img src="./assets/images/base.png" alt="Modern house model" class="w-100">
+          <img src="./assets/images/labase/_DSC9028.jpg" alt="Modern house model" class="w-100">
           <!-- <img src="./assets/images/base1.png" alt="Modern house model" class="w-100"> -->
 
         </figure>
