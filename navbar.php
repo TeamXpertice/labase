@@ -2,7 +2,7 @@
   <div class="container">
 
     <a href="#" class="logo">
-      <img src="./assets/images/iconos.png" alt="Logo de la base">
+      <img src="./assets/images/logoNavbar.jpg" alt="Logo de la base">
 
     </a>
 

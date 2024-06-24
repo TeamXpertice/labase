@@ -67,7 +67,7 @@
               </li>
               -->
               <li class="card-item">
-                <strong>2</strong>
+                <strong>10</strong>
 
                 <ion-icon name="man-outline"></ion-icon>
 
@@ -187,7 +187,7 @@
               </li>
               -->
               <li class="card-item">
-                <strong>2</strong>
+                <strong>12</strong>
 
                 <ion-icon name="man-outline"></ion-icon>
 
@@ -309,7 +309,7 @@
               </li>-->
 
               <li class="card-item">
-                <strong>2</strong>
+                <strong>4</strong>
 
                 <ion-icon name="man-outline"></ion-icon>
 
@@ -427,7 +427,7 @@
               </li>
               -->
               <li class="card-item">
-                <strong>2</strong>
+                <strong>10</strong>
 
                 <ion-icon name="man-outline"></ion-icon>
 
@@ -545,7 +545,7 @@
               </li>
               -->
               <li class="card-item">
-                <strong>2</strong>
+                <strong>1</strong>
 
                 <ion-icon name="man-outline"></ion-icon>
 
@@ -663,7 +663,7 @@
               </li>
               -->
               <li class="card-item">
-                <strong>2</strong>
+                <strong>4</strong>
 
                 <ion-icon name="man-outline"></ion-icon>
 
