@@ -9,6 +9,7 @@
           <img src="./assets/images/logoFooter.png" alt="Homeverse logo">
         </a>
 
+        <!--
         <p class="section-text">
           ¡Bienvenido a LaBaseCowork! Únete a nuestra comunidad y potencia tu productividad en un espacio moderno y flexible. ¡Tu éxito comienza aquí!
         </p>
@@ -41,6 +42,7 @@
 
         </ul>
 
+
         <ul class="social-list">
 
           <li>
@@ -67,7 +69,7 @@
             </a>
           </li>
 
-        </ul>
+        </ul>-->
 
       </div>
 
@@ -76,9 +78,13 @@
         <ul class="footer-list">
 
           <li>
-            <p class="footer-list-title">Empresa</p>
+            <p class="footer-list-title">SOBRE NOSOTROS</p>
           </li>
+          <div class="box">
+            <p>¡Bienvenido a LaBaseCowork! Únete a nuestra comunidad<br> y potencia tu productividad en un espacio moderno y flexible. <br>¡Tu éxito comienza aquí!</p>
 
+          </div>
+          <!--
           <li>
             <a href="#" class="footer-link">Acerca de</a>
           </li>
@@ -101,16 +107,40 @@
 
           <li>
             <a href="#" class="footer-link">Contáctanos</a>
-          </li>
+          </li>-->
 
         </ul>
 
         <ul class="footer-list">
-
           <li>
-            <p class="footer-list-title">Servicios</p>
+            <p class="footer-list-title">SÍGUENOS</p>
           </li>
+          <ul class="footer-listiconos">
+            <li>
+              <a href="https://www.linkedin.com/in/la-base-cowork-513611257/" class="social-link">
+                <ion-icon name="logo-linkedin"></ion-icon> <!-- Icono de LinkedIn -->
+              </a>
+            </li>
+            <li>
+              <a href="https://www.facebook.com/profile.php?id=100094472230413" class="social-link">
+                <ion-icon name="logo-facebook"></ion-icon> <!-- Icono de Facebook -->
+              </a>
+            </li>
+            <li>
+              <a href="https://www.instagram.com/labasecowork/" class="social-link">
+                <ion-icon name="logo-instagram"></ion-icon> <!-- Icono de Instagram -->
+              </a>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/@LaBaseCowork-tb9qh" class="social-link">
+                <ion-icon name="logo-youtube"></ion-icon> <!-- Icono de YouTube -->
+              </a>
+            </li>
+          </ul>
+        </ul>
 
+        <!--
+          
           <li>
             <a href="#" class="footer-link">Seguimiento de Pedidos</a>
           </li>
@@ -136,9 +166,9 @@
             <a href="#" class="footer-link">Ofertas Promocionales</a>
           </li>
 
-        </ul>
+        </ul>-->
 
-        <ul class="footer-list">
+        <!--<ul class="footer-list">
 
           <li>
             <p class="footer-list-title">Atención al Cliente</p>
@@ -168,7 +198,7 @@
             <a href="#" class="footer-link">Contáctanos</a>
           </li>
 
-        </ul>
+        </ul>-->
 
       </div>
 

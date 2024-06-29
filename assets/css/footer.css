@@ -1,0 +1,22 @@
+.footer-listiconos {
+    list-style-type: none;
+    padding: 0;
+    display: flex; /* Para alinear horizontalmente */
+}
+
+.footer-list li {
+    margin-right: 10px; /* Espacio entre cada ícono */
+}
+
+.social-link {
+    display: inline-block;
+    padding: 10px;
+    background-color: #FFA500; /* Color de fondo naranja oscuro */
+    border-radius: 5px; /* Bordes redondeados */
+    text-align: center; /* Centrar el ícono dentro del cuadro */
+}
+
+.social-link ion-icon {
+    font-size: 24px; /* Tamaño del ícono */
+    color: white; /* Color del ícono */
+}

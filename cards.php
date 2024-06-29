@@ -7,13 +7,15 @@
 
     <ul class="property-list has-scrollbar">
 
+      <!-- Espacio -->
+
       <li>
         <div class="property-card">
 
           <figure class="card-banner">
 
             <a href="#">
-              <img src="./assets/images/labase/_DSC9009.jpg" alt="New Apartment Nice View" class="w-100">
+              <img src="./assets/images/labase/_DSC9011.jpg" alt="New Apartment Nice View" class="w-100">
             </a>
 
             <div class="card-badge green">Arrendar</div>
@@ -86,7 +88,7 @@
 
           </div>
 
-          <div class="card-footer">
+          <!--<div class="card-footer">
 
             <div class="card-author">
 
@@ -120,10 +122,12 @@
 
             </div>
 
-          </div>
+          </div>-->
 
         </div>
       </li>
+
+      <!-- Espacio -->
 
       <li>
         <div class="property-card">
@@ -131,7 +135,7 @@
           <figure class="card-banner">
 
             <a href="#">
-              <img src="./assets/images/labase/_DSC9011.jpg" alt="Modern Apartments" class="w-100">
+              <img src="./assets/images/labase/DSC00138.JPG" alt="Modern Apartments" class="w-100">
             </a>
 
             <div class="card-badge orange">Arrendar</div>
@@ -206,7 +210,7 @@
 
           </div>
 
-          <div class="card-footer">
+          <!--<div class="card-footer">
 
             <div class="card-author">
 
@@ -240,7 +244,7 @@
 
             </div>
 
-          </div>
+          </div>-->
 
           <!-- ====== -->
 
@@ -249,13 +253,15 @@
         </div>
       </li>
 
+      <!-- Espacio -->
+
       <li>
         <div class="property-card">
 
           <figure class="card-banner">
 
             <a href="#">
-              <img src="./assets/images/labase/_DSC9016.jpg" alt="Comfortable Apartment" class="w-100">
+              <img src="./assets/images/labase/_DSC9038.jpg" alt="Comfortable Apartment" class="w-100">
             </a>
 
             <div class="card-badge green">Arrendar</div>
@@ -328,7 +334,7 @@
 
           </div>
 
-          <div class="card-footer">
+          <!--<div class="card-footer">
 
             <div class="card-author">
 
@@ -362,10 +368,13 @@
 
             </div>
 
-          </div>
+          </div>-->
+
 
         </div>
       </li>
+
+      <!-- Espacio -->
 
       <li>
         <div class="property-card">
@@ -373,7 +382,7 @@
           <figure class="card-banner">
 
             <a href="#">
-              <img src="./assets/images/labase/_DSC9021.jpg " alt="Luxury villa in Rego Park" class="w-100">
+              <img src="./assets/images/labase/_DSC9019.jpg " alt="Luxury villa in Rego Park" class="w-100">
             </a>
 
             <div class="card-badge orange">Arrendar</div>
@@ -446,7 +455,7 @@
 
           </div>
 
-          <div class="card-footer">
+          <!--<div class="card-footer">
 
             <div class="card-author">
 
@@ -480,10 +489,12 @@
 
             </div>
 
-          </div>
+          </div>-->
 
         </div>
       </li>
+
+      <!-- Espacio -->
 
       <li>
         <div class="property-card">
@@ -491,7 +502,7 @@
           <figure class="card-banner">
 
             <a href="#">
-              <img src="./assets/images/labase/_DSC9021.jpg " alt="Luxury villa in Rego Park" class="w-100">
+              <img src="./assets/images/labase/DSC00128.JPG" alt="Luxury villa in Rego Park" class="w-100">
             </a>
 
             <div class="card-badge green">Arrendar</div>
@@ -564,7 +575,7 @@
 
           </div>
 
-          <div class="card-footer">
+          <!--<div class="card-footer">
 
             <div class="card-author">
 
@@ -598,10 +609,12 @@
 
             </div>
 
-          </div>
+          </div>-->
 
         </div>
       </li>
+
+      <!-- Espacio -->
 
       <li>
         <div class="property-card">
@@ -609,7 +622,7 @@
           <figure class="card-banner">
 
             <a href="#">
-              <img src="./assets/images/labase/_DSC9021.jpg " alt="Luxury villa in Rego Park" class="w-100">
+              <img src="./assets/images/labase/DSC00132.JPG" alt="Luxury villa in Rego Park" class="w-100">
             </a>
 
             <div class="card-badge orange">Arrendar</div>
@@ -682,7 +695,7 @@
 
           </div>
 
-          <div class="card-footer">
+          <!--<div class="card-footer">
 
             <div class="card-author">
 
@@ -716,11 +729,12 @@
 
             </div>
 
-          </div>
+          </div>-->
 
         </div>
       </li>
 
+      <!-- Espacio -->
 
       <li>
         <div class="property-card">
@@ -728,7 +742,7 @@
           <figure class="card-banner">
 
             <a href="#">
-              <img src="./assets/images/labase/_DSC9021.jpg " alt="Luxury villa in Rego Park" class="w-100">
+              <img src="./assets/images/labase/_DSC9023.jpg " alt="Luxury villa in Rego Park" class="w-100">
             </a>
 
             <div class="card-badge green">Arrendar</div>
@@ -801,7 +815,7 @@
 
           </div>
 
-          <div class="card-footer">
+          <!--<div class="card-footer">
 
             <div class="card-author">
 
@@ -835,7 +849,7 @@
 
             </div>
 
-          </div>
+          </div>-->
 
         </div>
       </li>

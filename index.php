@@ -65,11 +65,11 @@
           <p class="card-text">Podemos ayudarte a hacer realidad tu sueño de obtener asesoría legal en línea.</p>
         </div>
 
-        <button class="btn cta-btn">
-          <span>Saber mas</span>
-
+        <a href="https://www.facebook.com/DerechoArbitrajeEmpresa" target="_blank" class="btn cta-btn">
+          <span>Saber más</span>
           <ion-icon name="arrow-forward-outline"></ion-icon>
-        </button>
+        </a>
+
       </div>
 
     </div>
