@@ -117,22 +117,22 @@
           </li>
           <ul class="footer-listiconos">
             <li>
-              <a href="https://www.linkedin.com/in/la-base-cowork-513611257/" class="social-link">
+              <a href="https://www.linkedin.com/in/la-base-cowork-513611257/" class="social-link" target="_blank">
                 <ion-icon name="logo-linkedin"></ion-icon> <!-- Icono de LinkedIn -->
               </a>
             </li>
             <li>
-              <a href="https://www.facebook.com/profile.php?id=100094472230413" class="social-link">
+              <a href="https://www.facebook.com/profile.php?id=100094472230413" class="social-link" target="_blank">
                 <ion-icon name="logo-facebook"></ion-icon> <!-- Icono de Facebook -->
               </a>
             </li>
             <li>
-              <a href="https://www.instagram.com/labasecowork/" class="social-link">
+              <a href="https://www.instagram.com/labasecowork/" class="social-link" target="_blank">
                 <ion-icon name="logo-instagram"></ion-icon> <!-- Icono de Instagram -->
               </a>
             </li>
             <li>
-              <a href="https://www.youtube.com/@LaBaseCowork-tb9qh" class="social-link">
+              <a href="https://www.youtube.com/@LaBaseCowork-tb9qh" class="social-link" target="_blank">
                 <ion-icon name="logo-youtube"></ion-icon> <!-- Icono de YouTube -->
               </a>
             </li>

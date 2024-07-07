@@ -14,7 +14,7 @@
 
           <figure class="card-banner">
 
-            <a href="#">
+            <a>
               <img src="./assets/images/labase/_DSC9011.jpg" alt="New Apartment Nice View" class="w-100">
             </a>
 
@@ -28,6 +28,7 @@
                 <address>Jr. Tacna 234, Edificio GALENA, piso 10</address>
               </button>
 
+              <!--
               <button class="banner-actions-btn">
                 <ion-icon name="camera"></ion-icon>
 
@@ -39,6 +40,7 @@
 
                 <span>2</span>
               </button>
+              -->
 
             </div>
 
@@ -51,7 +53,7 @@
             </div>
 
             <h3 class="h3 card-title">
-              <a href="#">La Base Operativa</a>
+              <a>La Base Operativa</a>
             </h3>
 
             <p class="card-text">
@@ -134,7 +136,7 @@
 
           <figure class="card-banner">
 
-            <a href="#">
+            <a>
               <img src="./assets/images/labase/DSC00138.JPG" alt="Modern Apartments" class="w-100">
             </a>
 
@@ -148,6 +150,7 @@
                 <address>Jr. Tacna 234, Edificio GALENA, piso 10</address>
               </button>
 
+              <!--
               <button class="banner-actions-btn">
                 <ion-icon name="camera"></ion-icon>
 
@@ -159,6 +162,7 @@
 
                 <span>2</span>
               </button>
+              -->
 
             </div>
 
@@ -173,7 +177,7 @@
             </div>
 
             <h3 class="h3 card-title">
-              <a href="#">La Base de Mando</a>
+              <a>La Base de Mando</a>
             </h3>
 
             <p class="card-text">
@@ -260,7 +264,7 @@
 
           <figure class="card-banner">
 
-            <a href="#">
+            <a>
               <img src="./assets/images/labase/_DSC9038.jpg" alt="Comfortable Apartment" class="w-100">
             </a>
 
@@ -274,6 +278,7 @@
                 <address>Jr. Tacna 234, Edificio GALENA, piso 10</address>
               </button>
 
+              <!--
               <button class="banner-actions-btn">
                 <ion-icon name="camera"></ion-icon>
 
@@ -285,6 +290,7 @@
 
                 <span>2</span>
               </button>
+              -->
 
             </div>
 
@@ -297,7 +303,7 @@
             </div>
 
             <h3 class="h3 card-title">
-              <a href="#">El Bunker</a>
+              <a>El Bunker</a>
             </h3>
 
             <p class="card-text">
@@ -381,7 +387,7 @@
 
           <figure class="card-banner">
 
-            <a href="#">
+            <a>
               <img src="./assets/images/labase/_DSC9019.jpg " alt="Luxury villa in Rego Park" class="w-100">
             </a>
 
@@ -395,6 +401,7 @@
                 <address>Jr. Tacna 234, Edificio GALENA, piso 10</address>
               </button>
 
+              <!--
               <button class="banner-actions-btn">
                 <ion-icon name="camera"></ion-icon>
 
@@ -406,6 +413,7 @@
 
                 <span>2</span>
               </button>
+              -->
 
             </div>
 
@@ -418,7 +426,7 @@
             </div>
 
             <h3 class="h3 card-title">
-              <a href="#">El Hangar</a>
+              <a>El Hangar</a>
             </h3>
 
             <p class="card-text">
@@ -501,7 +509,7 @@
 
           <figure class="card-banner">
 
-            <a href="#">
+            <a>
               <img src="./assets/images/labase/DSC00128.JPG" alt="Luxury villa in Rego Park" class="w-100">
             </a>
 
@@ -515,6 +523,7 @@
                 <address>Jr. Tacna 234, Edificio GALENA, piso 10</address>
               </button>
 
+              <!--
               <button class="banner-actions-btn">
                 <ion-icon name="camera"></ion-icon>
 
@@ -526,6 +535,7 @@
 
                 <span>2</span>
               </button>
+              -->
 
             </div>
 
@@ -538,7 +548,7 @@
             </div>
 
             <h3 class="h3 card-title">
-              <a href="#">Unidades</a>
+              <a>Unidades</a>
             </h3>
 
             <p class="card-text">
@@ -621,7 +631,7 @@
 
           <figure class="card-banner">
 
-            <a href="#">
+            <a>
               <img src="./assets/images/labase/DSC00132.JPG" alt="Luxury villa in Rego Park" class="w-100">
             </a>
 
@@ -635,6 +645,7 @@
                 <address>Jr. Tacna 234, Edificio GALENA, piso 10</address>
               </button>
 
+              <!--
               <button class="banner-actions-btn">
                 <ion-icon name="camera"></ion-icon>
 
@@ -646,6 +657,7 @@
 
                 <span>2</span>
               </button>
+              -->
 
             </div>
 
@@ -658,7 +670,7 @@
             </div>
 
             <h3 class="h3 card-title">
-              <a href="#">La Brigada</a>
+              <a>La Brigada</a>
             </h3>
 
             <p class="card-text">
@@ -741,7 +753,7 @@
 
           <figure class="card-banner">
 
-            <a href="#">
+            <a>
               <img src="./assets/images/labase/_DSC9023.jpg " alt="Luxury villa in Rego Park" class="w-100">
             </a>
 
@@ -755,6 +767,7 @@
                 <address>Jr. Tacna 234, Edificio GALENA, piso 10</address>
               </button>
 
+              <!--
               <button class="banner-actions-btn">
                 <ion-icon name="camera"></ion-icon>
 
@@ -766,6 +779,7 @@
 
                 <span>2</span>
               </button>
+              -->
 
             </div>
 
@@ -778,7 +792,7 @@
             </div>
 
             <h3 class="h3 card-title">
-              <a href="#">La Reserva</a>
+              <a>La Reserva</a>
             </h3>
 
             <p class="card-text">

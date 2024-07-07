@@ -1,5 +1,5 @@
-<section class="features">
-  <div class="container">
+<section class="features ">
+  <div class="container features-small">
 
     <p class="section-subtitle">LaBaseCowork</p>
 
@@ -8,7 +8,7 @@
     <ul class="features-list">
 
       <li>
-        <a href="#" class="features-card">
+        <a class="features-card">
 
           <div class="card-icon">
             <ion-icon name="globe-outline"></ion-icon>
@@ -25,10 +25,10 @@
       </li>
 
       <li>
-        <a href="#" class="features-card">
+        <a class="features-card">
 
           <div class="card-icon">
-            <ion-icon name="pin-outline"></ion-icon>
+            <ion-icon name="map-outline"></ion-icon>
           </div>
 
           <h3 class="card-title">Ubicación Estratégica</h3>
@@ -42,13 +42,13 @@
       </li>
 
       <li>
-        <a href="#" class="features-card">
+        <a class="features-card">
 
           <div class="card-icon">
             <ion-icon name="business-outline"></ion-icon>
           </div>
 
-          <h3 class="card-title">Imagen Profesional</h3>
+          <h3 class="card-title">Imagen<br> Profesional</h3>
 
           <!--flecha abajo
 
@@ -60,7 +60,7 @@
       </li>
 
       <li>
-        <a href="#" class="features-card">
+        <a class="features-card">
 
           <div class="card-icon">
             <ion-icon name="people-outline"></ion-icon>
@@ -78,7 +78,7 @@
       </li>
 
       <li>
-        <a href="#" class="features-card">
+        <a class="features-card">
 
           <div class="card-icon">
             <ion-icon name="print-outline"></ion-icon>
@@ -96,10 +96,10 @@
       </li>
 
       <li>
-        <a href="#" class="features-card">
+        <a class="features-card">
 
           <div class="card-icon">
-            <ion-icon name="construct-outline"></ion-icon>
+            <ion-icon name="trending-up-outline"></ion-icon>
           </div>
 
           <h3 class="card-title">Productividad</h3>
@@ -114,10 +114,10 @@
       </li>
 
       <li>
-        <a href="#" class="features-card">
+        <a class="features-card">
 
           <div class="card-icon">
-            <ion-icon name="home-outline"></ion-icon>
+            <ion-icon name="clipboard-outline"></ion-icon>
           </div>
 
           <h3 class="card-title">Recepción</h3>
@@ -132,10 +132,10 @@
       </li>
 
       <li>
-        <a href="#" class="features-card">
+        <a class="features-card">
 
           <div class="card-icon">
-            <ion-icon name="briefcase-outline"></ion-icon>
+            <ion-icon name="cafe-outline"></ion-icon>
           </div>
 
           <h3 class="card-title">Coffe and Tea</h3>
