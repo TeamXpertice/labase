@@ -18,7 +18,10 @@
             Descubre espacios ideales para despejar la mente y fomentar la creatividad. Nuestra oferta te proporciona el entorno perfecto para trabajar y colaborar de manera eficiente, con comodidad y estilo.
           </p>
 
-          <button class="btn">Haz tu consulta ahora.</button>
+          <a href="https://wa.me/51960270555" target="_blank">
+            <button class="btn">Haz tu consulta ahora.</button>
+          </a>
+
 
         </div>
 

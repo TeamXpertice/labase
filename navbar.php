@@ -43,7 +43,7 @@
           </li>
 
           <li>
-            <a href="#contact" class="navbar-link" data-nav-link>Contacto</a>
+            <a href="https://wa.me/51960270555" target="_blank" class="navbar-link" data-nav-link>Contacto</a>
           </li>
 
         </ul>
@@ -59,11 +59,11 @@
             <span>Search</span>
           </button> -->
 
-      <button class="header-bottom-actions-btn" aria-label="Profile">
+      <!--<button class="header-bottom-actions-btn" aria-label="Profile">
         <ion-icon name="person-outline"></ion-icon>
 
         <span>Profile</span>
-      </button>
+      </button>-->
 
 
       <!-- <button class="header-bottom-actions-btn" aria-label="Cart">
